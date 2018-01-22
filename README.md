@@ -3,7 +3,7 @@
 Nonfunctional requirements (design and tool selection analysis)
 
 The Signin app is built using:
-1. Mongod database
+1. Mongodb database
 2. Express framework
 3. Vue.js
 4. Node.js
@@ -23,7 +23,7 @@ Installation Instructions
 * npm run serve
 
 3. Open a new terminal
-* Run mongod
+* Run mongodb
 * Open localhost:3000 in web browser
 
 Architecture
