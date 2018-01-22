@@ -1,13 +1,13 @@
 # SignIn
 # SignIn
-Nonfunctional requirements (design and tool selection analysis)
+**Nonfunctional requirements (design and tool selection analysis)
 The Signin app is built using:
 1. Mongod database
 2. Express framework
 3. Vue.js
 4. Node.js
 
-Installation Instructions
+**Installation Instructions
 
 1. Create a repository on github.
 2. Open Ubuntu. Go to command prompt. 
@@ -25,6 +25,10 @@ Installation Instructions
 * Run mongod
 * Open localhost:3000 in web browser
 
-Architecture
+**Architecture
 
-Plan of action
+**Plan of action
+
+* Create the Readme file
+* Install and work on the webpage
+* Do Unit Testing
