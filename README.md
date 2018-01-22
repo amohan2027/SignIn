@@ -11,19 +11,19 @@ Installation Instructions
 
 1. Create a repository on github.
 2. Open Ubuntu. Go to command prompt. 
-cd Desktop
-git clone 
-cd signin
-Create a .env file 
-npm install
-curl -sL https://deb.nodesource.com/setup_9.x | sudo -E bash -
-sudo apt-get install -y nodejs
-./dev-env.sh
-npm run serve
+* cd Desktop
+* git clone 
+* cd signin
+* Create a .env file 
+* npm install
+* curl -sL https://deb.nodesource.com/setup_9.x | sudo -E bash -
+* sudo apt-get install -y nodejs
+* ./dev-env.sh
+* npm run serve
 
 3. Open a new terminal
-Run mongod
-Open localhost:3000 in web browser
+* Run mongod
+* Open localhost:3000 in web browser
 
 Architecture
 
